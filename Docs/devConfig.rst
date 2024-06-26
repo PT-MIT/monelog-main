@@ -80,7 +80,7 @@ restart the configuration application from ``http://<newname>.local``.
 The next step is `VT Configuration <VTconfig.html>`__
 
 .. |Setup| image:: pics/SetupButton.png
-    :scale: 60 %
+    :scale: 30 %
     :alt: **Setup button**
 
 .. |device| image:: pics/deviceButton.png
@@ -88,5 +88,5 @@ The next step is `VT Configuration <VTconfig.html>`__
     :alt: **Device Button**
 
 .. |save| image:: pics/SaveButton.png
-    :scale: 50 %
+    :scale: 30 %
     :alt: **Save**
